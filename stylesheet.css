@@ -1,0 +1,49 @@
+h1 {
+	color:blue;
+	text-transform:capitalize;
+	font-family:cursive;
+	font-size:48px;
+	text-align: center;
+	background-color:white;
+	border: groove #938675;
+	border-width:30px;
+	padding:40px;
+}
+img {
+	padding-left:30px;
+	opacity:0.6;
+}
+a {
+	text-decoration:none;
+}
+body {
+	background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIh7TUFteWFsfs6DrWDVZLJ3Io1xR-4CoJkTpWO4ABIjYQb5ov");
+	background-repeat:no-repeat;
+	background-position: center;
+}
+p {
+	font-size:24px;
+	color:orange;
+}
+li {
+	font-size: 30px;
+	color:olive;
+	text-align:right;
+	list-style-type:square;
+	background-color:000000;
+}
+span {
+	font-size:50px;
+	font-weight:bold;
+	float:left;
+}
+.intro {
+	text-indent:50px;
+	text-transform:uppercase;
+	text-decoration:underline;
+	font-family:Georgia;
+
+}
+li img {
+	opacity:0.95;
+}
